@@ -5,4 +5,4 @@ just like the printf function from the standard library
 
 #Collaborators
 --- | ---
-# Eliud Gachunji --- Robert Mindo
+# Eliud Gachunji | Robert Mindo
